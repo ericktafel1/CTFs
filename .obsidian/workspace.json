@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "TREST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c80f209a0b80ece0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fbb24f85a8abacfc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "TREST"
             }
           }
         ]
@@ -201,6 +185,7 @@
   },
   "active": "ffc2b15a3ed597b1",
   "lastOpenFiles": [
+    "TREST.md",
     "Welcome.md"
   ]
 }
